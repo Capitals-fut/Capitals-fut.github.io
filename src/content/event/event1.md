@@ -5,7 +5,7 @@ description: >-
   National University of Singapore. It is funded by the Singapore Ministry of
   Education Academic Research Fund Tier 2 grant (MOE-T2EP40222-0001) on Capitals
   of the Future: Place, Power and Possibility in Southeast Asia. 
-eventDate: 2024-08-19T16:00:00.000Z
+eventDate: 2025-08-19T16:00:00.000Z
 organisers:
   - Asia Research Institute
 heroImg: /src/assets/Futuring Cities 2.jpg
