@@ -75,12 +75,6 @@ cities:
   - Putrajaya
 ---
 
-More to share here! As we have finalized the presenters, we will share their details here as well as sharing more about the sessions and schedules. 
-
-```
-code?
-```
-
-> quote?
+More to share here! As we have finalized the presenters, we will share their details here as well as sharing more about the sessions and schedules.
 
 ![](/src/assets../../assets/singapore.jpg)
