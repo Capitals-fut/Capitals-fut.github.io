@@ -4,17 +4,7 @@ description: >-
   This international workshop is organized by the Asia Research Institute (ARI),
   National University of Singapore. It is funded by the Singapore Ministry of
   Education Academic Research Fund Tier 2 grant (MOE-T2EP40222-0001) on Capitals
-  of the Future: Place, Power and Possibility in Southeast Asia.  
-
-
-
-
-
-
-
-  Click to learn more about the presenters, sessions, and schedules! 
-
-  Find out more at https://ari.nus.edu.sg/events/cities-as-sites/ 
+  of the Future: Place, Power and Possibility in Southeast Asia. 
 eventDate: 2024-08-18T16:00:00.000Z
 organisers: []
 heroImg: /src/assets/Futuring Cities 2.jpg
@@ -24,7 +14,7 @@ cities:
   - Putrajaya
 ---
 
-The workshop forms part of ongoing efforts to theorize cities as sites of futuring, where specific techniques of presentation, exhibition, immersion, designing, piloting, inter-referencing, and so on are deployed to create imaginations, possibilities, and actualizations of urban futures. While research on sites of memory and history are very well established (Nora, 1989), recent scholarship has taken a more forward-facing approach in examining how “some places are imagined as instantiations of the future” (Bunnell et al., 2022, p. 1083). Such approaches include consideration of ways in which sites of futuring are rendered and render each other as “truth spots” (Gieryn, 2018) in the contradictory age of thoroughgoing urbanization (Jones, 1997) and adaptation to the climate crisis. Related approaches not only consider cities as material and discursive environments that entail subjection to new regimes of everyday life and identity but also in relation to recurring events, digital hotspots, extended infrastructures, and other representational techniques of re/making futures and un/doing futures (Chakkalakal & Ren, 2022) with expressions of interest from scholars examining such spaces and cities in relation to futuring in ways that include (but are not limited to): 
+The workshop forms part of ongoing efforts to theorize cities as sites of futuring, where specific techniques of presentation, exhibition, immersion, designing, piloting, inter-referencing, and so on are deployed to create imaginations, possibilities, and actualizations of urban futures. While research on sites of memory and history are very well established (Nora, 1989), recent scholarship has taken a more forward-facing approach in examining how “some places are imagined as instantiations of the future” (Bunnell et al., 2022, p. 1083). Such approaches include consideration of ways in which sites of futuring are rendered and render each other as “truth spots” (Gieryn, 2018) in the contradictory age of thoroughgoing urbanization (Jones, 1997) and adaptation to the climate crisis. Related approaches not only consider cities as material and discursive environments that entail subjection to new regimes of everyday life and identity but also in relation to recurring events, digital hotspots, extended infrastructures, and other representational techniques of re/making futures and un/doing futures (Chakkalakal & Ren, 2022) with expressions of interest from scholars examining such spaces and cities in relation to futuring in ways that include (but are not limited to):
 
 1\. The framing of smartness, invocation of innovation, and deployment of futuristic technologies in the techniques of futuring
 
@@ -41,5 +31,7 @@ The workshop forms part of ongoing efforts to theorize cities as sites of futuri
 7\. The futures past that new cities and districts have inherited and the times to come that they anticipate and seek to bring into being
 
 More to share here! As we have finalized the presenters, we will share their details here as well as sharing more about the sessions and schedules.
+
+Find out more at https\://ari.nus.edu.sg/events/cities-as-sites/ 
 
 ![](/src/assets../../assets/singapore.jpg)
