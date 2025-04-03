@@ -11,6 +11,6 @@ cities:
   - Nusantara
 ---
 
-### A risky relocation
+A Risky Relocation, 
 
 East Kalimantan province, the home of Indonesia’s new capital, is a malaria hot spot. Scientists worry in particular about Plasmodium knowlesi, a malaria parasite that’s already on the rise in the Malaysian part of Borneo.
