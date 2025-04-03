@@ -5,7 +5,7 @@ description: >-
   National University of Singapore. It is funded by the Singapore Ministry of
   Education Academic Research Fund Tier 2 grant (MOE-T2EP40222-0001) on Capitals
   of the Future: Place, Power and Possibility in Southeast Asia. 
-eventDate: 2024-08-18T16:00:00.000Z
+eventDate: 2024-08-19T16:00:00.000Z
 organisers: []
 heroImg: /src/assets/Futuring Cities 2.jpg
 cities:
@@ -32,6 +32,6 @@ The workshop forms part of ongoing efforts to theorize cities as sites of futuri
 
 More to share here! As we have finalized the presenters, we will share their details here as well as sharing more about the sessions and schedules.
 
-Find out more at https\://ari.nus.edu.sg/events/cities-as-sites/ 
+Find out more at [https://ari.nus.edu.sg/events/cities-as-sites/](https://ari.nus.edu.sg/events/cities-as-sites/)
 
 ![](/src/assets../../assets/singapore.jpg)
