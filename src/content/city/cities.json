@@ -2,10 +2,10 @@
   "cities": [
     {
       "name": "Singapore",
-      "description": "Ambitious and futuristic urbanization began in earnest with the development of industrial Jurong Town in 1961 and the city-state has not looked back since. ",
+      "description": "Ambitious and futuristic urbanization began in earnest with the development of industrial Jurong Town in 1961 and the city-state has not looked back since. Our research then scrutinized the historical and the future of Jurong and also the Marina Bay continuous development and improvement. ",
       "mainImg": "/src/assets/singapore.jpg",
-      "headerImg": "/src/assets/singapore.jpg",
-      "infoImg": "/src/assets/singapore.jpg",
+      "headerImg": "/src/assets/SIN_IMP70_1989.jpg",
+      "infoImg": "/src/assets/SIN_IMP10_2023.jpg",
       "lat": 1.283333,
       "long": 103.833333
     },
