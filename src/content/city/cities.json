@@ -1,6 +1,15 @@
 {
   "cities": [
     {
+      "name": "Singapore",
+      "description": "Ambitious and futuristic urbanisation began in earnest with the development of industrial Jurong Town in 1961 and the city-state has not looked back since.",
+      "mainImg": "/src/assets/singapore.jpg",
+      "headerImg": "/src/assets/singapore.jpg",
+      "infoImg": "/src/assets/singapore.jpg",
+      "lat": 1.283333,
+      "long": 103.833333
+    },
+    {
       "name": "Nusantara",
       "description": "Much more than the future capital of Indonesia, located strategically in the center of Indonesia in the east of Borneo. ",
       "mainImg": "/src/assets/2.webp",
@@ -17,15 +26,6 @@
       "infoImg": "/src/assets/putrajaya.jpg",
       "lat": 2.93,
       "long": 101.69
-    },
-    {
-      "name": "Singapore",
-      "description": "Ambitious and futuristic urbanisation began in earnest with the development of industrial Jurong Town in 1961 and the city-state has not looked back since.",
-      "mainImg": "/src/assets/singapore.jpg",
-      "headerImg": "/src/assets/singapore.jpg",
-      "infoImg": "/src/assets/singapore.jpg",
-      "lat": 1.283333,
-      "long": 103.833333
     }
   ]
 }
