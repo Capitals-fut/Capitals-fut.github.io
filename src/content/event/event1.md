@@ -1,10 +1,6 @@
 ---
 title: 'Symposium: Cities as Sites and Techniques of Futuring'
-description: >-
-  This international workshop is organized by the Asia Research Institute (ARI),
-  National University of Singapore. It is funded by the Singapore Ministry of
-  Education Academic Research Fund Tier 2 grant (MOE-T2EP40222-0001) on Capitals
-  of the Future: Place, Power and Possibility in Southeast Asia. 
+description: 'This international workshop was successfully organized by the Asia Research Institute (ARI), National University of Singapore, funded by the Singapore Ministry of Education Academic Research Fund Tier 2 grant (MOE-T2EP40222-0001) on Capitals of the Future: Place, Power and Possibility in Southeast Asia. '
 eventDate: 2025-08-19T16:00:00.000Z
 organisers:
   - Asia Research Institute
@@ -15,24 +11,8 @@ cities:
   - Putrajaya
 ---
 
-The workshop forms part of ongoing efforts to theorize cities as sites of futuring, where specific techniques of presentation, exhibition, immersion, designing, piloting, inter-referencing, and so on are deployed to create imaginations, possibilities, and actualizations of urban futures. While research on sites of memory and history are very well established (Nora, 1989), recent scholarship has taken a more forward-facing approach in examining how “some places are imagined as instantiations of the future” (Bunnell et al., 2022, p. 1083). Such approaches include consideration of ways in which sites of futuring are rendered and render each other as “truth spots” (Gieryn, 2018) in the contradictory age of thoroughgoing urbanization (Jones, 1997) and adaptation to the climate crisis. Related approaches not only consider cities as material and discursive environments that entail subjection to new regimes of everyday life and identity but also in relation to recurring events, digital hotspots, extended infrastructures, and other representational techniques of re/making futures and un/doing futures (Chakkalakal & Ren, 2022) with expressions of interest from scholars examining such spaces and cities in relation to futuring in ways that include (but are not limited to):
+There is an urgency to cross-examine how cities are increasingly being produced not only as sites of memory and history, but as active sites of futuring, or places where urban futures are imagined, staged, tested, and normalized through specific techniques such as design, exhibition, digital mediation, ecological framing, and governance experimentation. Building on emerging scholarship that views cities as “truth spots” of the future amid the climate crisis and accelerated urbanization, our symposium foregrounded how futuring is materially and discursively enacted across new capital cities, administrative hubs, reclaimed industrial zones, and mega-urban extensions in Southeast Asia and beyond. Anchored in the Capitals of the Future research project, although focused on cases in Nusantara, Putrajaya, and key Singaporean districts, this symposium situated the discussion alongside global examples, such as Neom, Songdo, and Xiong’an. Participants critically examined how concepts such as smartness, innovation, spirituality, aesthetics, ecology, and governance are mobilized to legitimize particular visions of the future, often reworking ideas of the good life, social contracts, and human–nature relations. The symposium underscored the need to theorize futuring practices now, as these urban experiments increasingly shape lived realities, redistribute power, and foreclose or enable alternative futures in an era defined by climate uncertainty and rapid urban transformation.
 
-1\. The framing of smartness, invocation of innovation, and deployment of futuristic technologies in the techniques of futuring
-
-2\. Spiritual aspects of futuring visions that take on religious/pseudo-religious forms or secularized manifestations of cultural vibrancy and creativity
-
-3\. The deployment and practice of visual and performing arts in the aesthetic politics of futuring
-
-4\. Ecological expressions of human-nature relationships and green techniques of futuring in the making of the new cities
-
-5\. Rearticulations of gentrification and the good life in geographies of futuring stretched across different scales from neighborhoods to mega-urban regions
-
-6\. The reimagining of ways of living and working together, including governance institutions, spatial communities, and the social contract
-
-7\. The futures past that new cities and districts have inherited and the times to come that they anticipate and seek to bring into being
-
-More to share here! As we have finalized the presenters, we will share their details here as well as sharing more about the sessions and schedules.
-
-Find out more at [https://ari.nus.edu.sg/events/cities-as-sites/](https://ari.nus.edu.sg/events/cities-as-sites/)
+The two-day symposium brought together 25 urban scholars worldwide under the thematic panels of futuring politics, smart city as method, worlding futuring, eco-futuring, utopian marginalities, and futuring strategies. In the concluding session, led by Dr. Bosman Batubara, ARI Research Fellow, the rich discussions were organized into four interrelated clusters, revealing how temporal urbanism is actively produced through different tools and practices, including narratives, technologies, planning documents, and infrastructure and spatial production. The first cluster foregrounded narratives as powerful instruments of futuring, showing how carefully scripted stories of progress, sustainability, and national destiny are mobilized to legitimize large-scale urban projects across cases from Songdo and Hanoi to Nusantara, demonstrated how narratives frame urban futures as desirable, inevitable, and economically necessary, often masking environmental risks and political contestation while rallying public support through appeals to innovation, pride, and redistribution. The second and third clusters examined technologies and planning documents as key operational tools of temporal urbanism. Papers in these clusters revealed how data systems, AI, financial modeling, maps, and long-term plans function not merely as technical instruments but as future-making devices that privilege speed, prediction, and control, frequently marginalizing citizens and alternative temporalities from Singapore and Sydney to Bangkok, Xiong’an, and Nusantara. The final cluster shifted its focus to infrastructure and the production of space, highlighting how accelerated construction, exclusionary redevelopment, and megaprojects unevenly materialize futures, while also opening up space for counter-politics and alternative imaginaries. Together, these clusters elaborate a more explicit and systematic engagement with time as a central dimension of capitalist urbanization, particularly how speed, anticipation, and turnover shape both the production of urban space and the politics of whose futures are realized or foreclosed. Finallt, with the excellent ideas, discussions, and distinguished urban scholars gathered at this symposium, we followed up promptly and proposed special issues to journals of urban studies that align with our futuring themes. 
 
 ![](/src/assets../../assets/singapore.jpg)
