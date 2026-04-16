@@ -2,7 +2,7 @@
 title: 'Project time: The politics of speed in the making of Nusantara'
 authors: 'Tim Bunnell, Priza Marendraputra, Anders Moeller, Andrew Schauf'
 link: 'https://www.researchgate.net/profile/Priza-Marendraputra/research'
-institution: Asia Research Institute
+institution: Capitals of the Future
 publication: 'Sage Publishing, Urban Studies'
 pubDate: 2026-02-13T16:00:00.000Z
 heroImg: /src/assets/_20250207_nid_indonesia_capital.jpg
