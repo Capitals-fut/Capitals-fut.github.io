@@ -2,7 +2,7 @@
 title: 'Subsumption of Landscape under Capital: Extended Urbanisation at the Location of Indonesia’s New Capital City'
 authors: Bosman Batubara
 link: 'https://doi.org/10.1080/10455752.2025.2523366'
-institution: Asia Research Institute
+institution: Capitals of the Future
 publication: 'Taylor and Francis Journal, Capitalism Nature Socialism'
 pubDate: 2025-06-23T16:00:00.000Z
 cities:
