@@ -11,4 +11,4 @@ export const getSortedResearch = (research: CollectionEntry<"research">[]) => {
 export const getSortedResearchByCity = (
   research: CollectionEntry<"research">[],
   city: string,
-) => getSortedResearch(research.filter((r) => r.data.cities.includes(city)));
+) => getSortedResearch(research.filter((r) => r.data.cities && r.data.cities.includes(city)));

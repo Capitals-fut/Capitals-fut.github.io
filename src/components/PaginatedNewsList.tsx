@@ -18,7 +18,7 @@ const PaginatedNewsList = ({ news }: { news: CollectionEntry<"news">[] }) => {
   const [city, setCity] = useState<string>("");
 
   const filteredNews = news.filter((n) => {
-    return city === "" || n.data.cities.includes(city);
+    return city === "" || (n.data.cities && n.data.cities.includes(city));
   });
 
   const [page, setPage] = useState<number>(1);

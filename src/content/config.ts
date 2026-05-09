@@ -28,7 +28,7 @@ const event = defineCollection({
       organisers: z.array(z.string()),
       cities: z.array(z.string()).refine((val) => val.length > 0, {
         message: "At least one city must be selected for an event.",
-      }),
+      }).optional(),
       heroImg: image().optional(),
     }),
 });
@@ -43,7 +43,7 @@ const news = defineCollection({
       newsDate: z.coerce.date(),
       cities: z.array(z.string()).refine((val) => val.length > 0, {
         message: "At least one city must be selected for a news article.",
-      }),
+      }).optional(),
       heroImg: image().optional(),
     }),
 });
@@ -60,7 +60,7 @@ const research = defineCollection({
       pubDate: z.coerce.date(),
       cities: z.array(z.string()).refine((val) => val.length > 0, {
         message: "At least one city must be selected for a research paper.",
-      }),
+      }).optional(),
       heroImg: image().optional(),
     }),
 });

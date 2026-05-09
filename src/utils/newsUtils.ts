@@ -13,4 +13,4 @@ export const getSortedNews = (news: CollectionEntry<"news">[]) => {
 export const getSortedNewsByCity = (
   news: CollectionEntry<"news">[],
   city: string,
-) => getSortedNews(news.filter((n) => n.data.cities.includes(city)));
+) => getSortedNews(news.filter((n) => n.data.cities && n.data.cities.includes(city)));

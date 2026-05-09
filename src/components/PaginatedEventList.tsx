@@ -25,7 +25,7 @@ const PaginatedEventList = ({
 
   const filteredEvents = events
     .filter((event) => {
-      return city === "" || event.data.cities.includes(city);
+      return city === "" || (event.data.cities && event.data.cities.includes(city));
     })
     .filter((event) => {
       return organiser === "" || event.data.organisers.includes(organiser);

@@ -17,7 +17,7 @@ const CardTags = ({
       >
         {type}
       </a>
-      <SlashIcon className={`size-4 ${light ? 'fill-gray-300/60' : 'fill-gray-700/40'}`} />
+      {tags && tags.length > 0 && <SlashIcon className={`size-4 ${light ? 'fill-gray-300/60' : 'fill-gray-700/40'}`} />}
       <div className="shrink flex flex-wrap gap-1">
         {tags.sort().map((tag) => (
           <a

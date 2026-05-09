@@ -25,7 +25,7 @@ const PaginatedResearchList = ({
 
   const filteredResearch = research
     .filter((r) => {
-      return city === "" || r.data.cities.includes(city);
+      return city === "" || (r.data.cities && r.data.cities.includes(city));
     })
     .filter((r) => {
       return institution === "" || r.data.institution === institution;

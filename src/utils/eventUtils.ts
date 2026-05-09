@@ -16,4 +16,4 @@ export const getSortedEventsByCity = (
   events: CollectionEntry<"event">[],
   city: string,
 ) =>
-  getSortedEvents(events.filter((event) => event.data.cities.includes(city)));
+  getSortedEvents(events.filter((event) => event.data.cities && event.data.cities.includes(city)));
