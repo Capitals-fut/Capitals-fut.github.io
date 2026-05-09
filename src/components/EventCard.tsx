@@ -9,6 +9,7 @@ const EventCard = ({
   data: CollectionEntry<"event">["data"];
 }) => {
   const { title, description, heroImg, eventDate, cities } = data;
+  console.log(eventDate);
   return (
     <article>
       <CardTags type="events" tags={cities} />
@@ -31,6 +32,7 @@ const EventCard = ({
           year: "numeric",
           month: "short",
           day: "numeric",
+          timeZone: "UTC",
         })}
       </div>
     </article>
