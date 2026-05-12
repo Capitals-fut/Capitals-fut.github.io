@@ -9,7 +9,6 @@ const EventCard = ({
   data: CollectionEntry<"event">["data"];
 }) => {
   const { title, description, heroImg, eventDate, cities } = data;
-  console.log(eventDate);
   return (
     <article>
       <CardTags type="events" tags={cities} />

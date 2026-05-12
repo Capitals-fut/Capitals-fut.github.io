@@ -28,6 +28,7 @@ const ResearchCard = ({
             year: "numeric",
             month: "short",
             day: "numeric",
+            timeZone: "UTC",
           })}
         </p>
       </div>
@@ -38,6 +39,7 @@ const ResearchCard = ({
             year: "numeric",
             month: "short",
             day: "numeric",
+            timeZone: "UTC",
           })}
         </p>
       </div>
